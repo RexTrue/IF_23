@@ -1,0 +1,18 @@
+nav {
+    margin: 1vh;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+}
+
+.container h5{
+    margin: 2vh;
+    margin-left: 7vh;
+    
+}
+
+.card a{
+    margin-left: 8vh;
+}
